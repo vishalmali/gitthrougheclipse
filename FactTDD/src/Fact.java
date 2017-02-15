@@ -3,6 +3,7 @@ public class Fact {
 
 	public int getFact(int num) {
 		
+		int i = 0;
 		int fact = 1;
 		
 		if (num < 0) {
