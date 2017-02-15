@@ -1,4 +1,4 @@
-
+// changed for test
 public class Fact {
 
 	public int getFact(int num) {
