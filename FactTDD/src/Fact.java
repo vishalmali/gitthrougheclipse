@@ -1,5 +1,5 @@
 
-//comments added
+//comments updated at 4:30 pm
 public class Fact {
 
 	public int getFact(int num) {
