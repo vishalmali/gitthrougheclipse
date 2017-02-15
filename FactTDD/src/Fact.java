@@ -1,5 +1,5 @@
 
-//comments added
+//comments added by Vishal
 public class Fact {
 
 	public int getFact(int num) {
